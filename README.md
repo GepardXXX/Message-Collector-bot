@@ -1,5 +1,5 @@
 # Message collector
-[![GitHub license](https://img.shields.io/github/license/GepardXXX/YourRepoName)](https://github.com/YourUsername/YourRepoName/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/GepardXXX/Message-Collector-bot)](https://github.com/GepardXXX/Message-Collector-bot/blob/main/LICENSE)
 
 Этот проект представляет собой Telegram-бота, который может собирать сообщения из группы и сохранять их на Yandex Disk. 
 
