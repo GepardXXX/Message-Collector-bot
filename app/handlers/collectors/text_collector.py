@@ -32,7 +32,7 @@ class TextCollector(MediaCollector):
             new_file_name = f'{file_name}~{new_date}.txt'
 
             os.rename(file_name, new_file_name)  # Переименование файла с дополнительной датой
-            await self.upload_to_yandex_disk(file_path=f'пропишите/путь/к папке{new_file_name}', file_name=new_file_name)  # Загрузка на Яндекс.Диск
+            await self.upload_to_yandex_disk(file_path=f'your/path{new_file_name}', file_name=new_file_name)  # Загрузка на Яндекс.Диск
 
     
     def get_user_name(self, message: Message):
