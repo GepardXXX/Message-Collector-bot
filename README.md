@@ -1,6 +1,6 @@
 # Message collector
 [![GitHub license](https://img.shields.io/github/license/GepardXXX/Message-Collector-bot)](https://github.com/GepardXXX/Message-Collector-bot/blob/main/LICENSE)
-[![Python Version](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3x/)
+[![Python Version](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/GepardXXX/Message-Collector-bot)
 ![GitHub repo size](https://img.shields.io/github/repo-size/GepardXXX/Message-Collector-bot)
 ![GitHub Watchers](https://img.shields.io/github/watchers/GepardXXX/Message-Collector-bot?style=social)
@@ -17,7 +17,7 @@
 
 ## Структура проекта
 ```
-my_bot_project/
+Message-Collector-bot/
 ├── app/
 │   ├── __init__.py
 │   ├── bot.py
@@ -39,6 +39,8 @@ my_bot_project/
 ├── utils/
 │   ├── __init__.py
 │   ├── yandex_disk.py
+├──README.md
+├──LICENSE
 ├── main.py
 └── requirements.txt
 ```
